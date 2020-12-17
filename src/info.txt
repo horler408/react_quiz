@@ -1,0 +1,9 @@
+//Image
+unsplash.com
+
+//Fonts
+fonts.google.com
+--catamaran
+
+//API
+opentdb.com/api_config.php
